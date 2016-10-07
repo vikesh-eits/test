@@ -3,7 +3,7 @@ namespace Utilities.Validations
 {
     public class DocumentExtension
     {
-        /// <summary>
+        /// <summary>test
         /// used to check document extension
         /// </summary>
         /// <param name="imageName">Can be document name, document path</param>

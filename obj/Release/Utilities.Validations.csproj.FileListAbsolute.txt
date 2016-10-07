@@ -1,0 +1,5 @@
+D:\Codes\Utilities\Utilities.Validations\bin\Release\Utilities.Validations.dll
+D:\Codes\Utilities\Utilities.Validations\bin\Release\Utilities.Validations.pdb
+D:\Codes\Utilities\Utilities.Validations\obj\Release\Utilities.Validations.csprojResolveAssemblyReference.cache
+D:\Codes\Utilities\Utilities.Validations\obj\Release\Utilities.Validations.dll
+D:\Codes\Utilities\Utilities.Validations\obj\Release\Utilities.Validations.pdb

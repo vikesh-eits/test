@@ -4,6 +4,7 @@ namespace Utilities.Validations
     public class DocumentExtension
     {
         /// <summary>1test123
+        /// <summary>test
         /// used to check document extension
         /// </summary>
         /// <param name="imageName">Can be document name, document path</param>
